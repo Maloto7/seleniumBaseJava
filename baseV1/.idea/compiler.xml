@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="seleniumBaseJava" />
+        <module name="baseV1" />
         <module name="TestPomSeleniumJava" />
       </profile>
     </annotationProcessing>
